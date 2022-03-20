@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ExampleForCGI
 //
-//  Created by Fizza Hagverdizade on 19.03.22.
+//  Created by Rasul Mammadov on 19.03.22.
 //
 
 import SwiftUI
